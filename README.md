@@ -10,10 +10,7 @@
 1. 本仓库提交 issues
 
 ### issues提交格式
-邀请码用途： xxxx
-
-使用方式：xxxx
-
-邀请码：xxxx
-
-其他补充说明：xxxx
+邀请码用途： xxxx<br/>
+使用方式：xxxx<br/>
+邀请码：xxxx<br/>
+其他补充说明：xxxx<br/>
